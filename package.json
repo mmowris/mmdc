@@ -2,6 +2,9 @@
   "name": "mmdc",
   "version": "1.0",
   "description": "Matt's portfolio website",
+  "engines": {
+    "node": "17.2.0"
+  },
   "keywords": [
     "Mowris",
     "Matt Mowris"
