@@ -2,13 +2,6 @@
   "name": "mmdc",
   "version": "1.0",
   "description": "Matt's portfolio website",
-  "engines": {
-    "node": "17.0.1"
-  },
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
   "keywords": [
     "Mowris",
     "Matt Mowris"
